@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RuPizzeriaApp-Shreyas and Sahil</string>
+    <string name="welcome_title">Welcome to RU Pizzeria</string>
+    <string name="ny_pizza_label">NY Pizza</string>
+    <string name="chicago_pizza_label">Chicago Pizza</string>
+    <string name="store_orders_label">Store Orders</string>
+    <string name="cart_label">Cart</string>
+    <string name="ny_pizza_description">Order New York Style Pizza</string>
+    <string name="chicago_pizza_description">Order Chicago Style Pizza</string>
+    <string name="store_orders_description">View Store Orders</string>
+    <string name="cart_description">View Shopping Cart</string>
+    <string name="main_menu_description">RU Pizzeria Main Menu</string>
+    <string name="back_button">Back</string>
+    <string name="chicago_pizza_title">Chicago Pizza</string>
+    <string name="choose_size">Choose Size</string>
+    <string name="size_small">Small</string>
+    <string name="size_medium">Medium</string>
+    <string name="size_large">Large</string>
+    <string name="total_price_placeholder">Total: $0.00</string>
+    <string name="add_to_order">Add to Current Order</string>
+    <string name="chicago_pizza_image_description">Chicago style pizza</string>
+    <string name="place_order_button">Place Order</string>
+    <string name="order_number_label">Order Number:</string>
+    <string name="order_number_description">Current order number</string>
+    <string name="subtotal_label">Subtotal: $</string>
+    <string name="subtotal_description">Subtotal amount of the order</string>
+    <string name="sales_tax_label">Sales Tax: $</string>
+    <string name="order_total_label">Order Total: $</string>
+    <string name="remove_pizza_button">Remove Pizza</string>
+    <string name="clear_order_button">Clear Order</string>
+    <string name="sales_tax_description">Sales tax amount</string>
+    <string name="order_total_description">Total order amount</string>
+    <string name="ny_pizza_screen_title">NY Pizza</string>
+    <string name="total_price_format">Total: $0.00</string>
+    <string name="all_placed_orders_title">All Placed Orders</string>
+    <string name="order_total_with_tax_label">Order Total (w/Tax):</string>
+    <string name="cancel_order_button">Cancel Order</string>
+</resources>

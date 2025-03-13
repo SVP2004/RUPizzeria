@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:translateX="24"
+        android:translateY="24">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M54 30 L30 54 C40 64, 64 64, 78 54 Z"/>
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M40,45 m-3,0 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0"/>
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M48,52 m-3,0 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0"/>
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M60,48 m-3,0 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0"/>
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M68,56 m-3,0 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0"/>
+        <path
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="1"
+            android:pathData="M35 48 Q54 42, 73 48"
+            android:fillColor="#00000000"/>
+        <text
+            android:text="RU"
+            android:textSize="24sp"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"
+            android:x="54dp"
+            android:y="90dp"
+            android:textAlignment="center"/>
+        <text
+            android:text="PIZZA"
+            android:textSize="18sp"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"
+            android:x="54dp"
+            android:y="30dp"
+            android:textAlignment="center"/>
+        <text
+            android:text="RU Pizzeria"
+            android:textSize="12sp"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"
+            android:x="54dp"
+            android:y="100dp"
+            android:textAlignment="center"/>
+    </group>
+</vector>
